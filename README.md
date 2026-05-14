@@ -8,7 +8,7 @@ The goal of this project is to perform a series of Man-in-the-Middle (MITM) atta
 
 ## Tools & Environment
 * **Language:** Python (Scapy library)
-* **Environment:** SEED Labs (Ubuntu VMs) https://seedsecuritylabs.org/Labs_20.04/Files/ARP_Attack/ARP_Attack.pdf
+* **Environment:** Conducted in a containerized environment using **Docker** (SEED Labs, Ubuntu VM) https://seedsecuritylabs.org/Labs_20.04/Files/ARP_Attack/ARP_Attack.pdf
 * **Tools:** Wireshark, Telnet, Netcat
 
 ## Project Phases
