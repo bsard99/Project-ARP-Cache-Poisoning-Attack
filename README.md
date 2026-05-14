@@ -1,11 +1,14 @@
 # Project-ARP-Cache-Poisoning-Attack
 
+## Full Documentation
+You can view the complete technical report here: 
+
 ## Objective
 The goal of this project is to perform a series of Man-in-the-Middle (MITM) attacks using ARP cache poisoning. I demonstrated how to redirect traffic between a client and server through an attacker machine to intercept and modify data in real-time.
 
 ## Tools & Environment
 * **Language:** Python (Scapy library)
-* **Environment:** SEED Labs (Ubuntu VMs)
+* **Environment:** SEED Labs (Ubuntu VMs) https://seedsecuritylabs.org/Labs_20.04/Files/ARP_Attack/ARP_Attack.pdf
 * **Tools:** Wireshark, Telnet, Netcat
 
 ## Project Phases
